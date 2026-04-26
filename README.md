@@ -92,7 +92,7 @@ ppm-graphics-engine/
 
 ADARSH SINGH
 - GitHub: [@Adarsh300a](https://github.com/Adarsh300a)
-- LinkedIn: [Adarsh Singh]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/adarsh-singh-3643802a0?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- LinkedIn: [Adarsh Singh](https://www.linkedin.com/in/adarsh-singh-3643802a0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 

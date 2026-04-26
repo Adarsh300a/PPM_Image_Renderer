@@ -72,11 +72,8 @@ The coordinate origin `(0, 0)` is at the **bottom-left** of the image.
 copy main.cpp code and paste into your .cpp file and run it and get game.ppm image in the same folder in which .cpp is open
 image using  website https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
 
+
 ```
-
-After running, open the generated `game.ppm` file in any compatible viewer.
-
----
 
 ## 🗂️ Project Structure
 

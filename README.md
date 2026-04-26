@@ -69,7 +69,6 @@ The coordinate origin `(0, 0)` is at the **bottom-left** of the image.
   - **Windows** — website>> (https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html)
 
 ### Build & Run
-```
 copy main.cpp code and paste into your .cpp file and run it and get game.ppm image in the same folder in which .cpp is open
 image using  website https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
 
@@ -95,8 +94,8 @@ ppm-graphics-engine/
 ## 🙋‍♂️ Author
 
 ADARSH SINGH
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@Adarsh300a](https://github.com/Adarsh300a)
+- LinkedIn: [Adarsh Singh]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/adarsh-singh-3643802a0?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
